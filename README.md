@@ -19,7 +19,7 @@ GPT NutriFit Veggie es un modelo de lenguaje desarrollado para ofrecer planes de
 3. **Flexibilidad y Variedad**  
    Incluye sugerencias de alimentos alternativos para alérgicos e intolerantes (sin gluten, sin frutos secos, etc.).
 4. **Optimización Deportiva**  
-   Orientado a quienes practican distintas disciplinas: fitness, crossfit, running, deportes de resistencia, etc.
+   Orientado a los que practican distintas disciplinas: fitness, crossfit, running, deportes de resistencia, etc.
 
 ---
 
