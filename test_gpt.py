@@ -12,43 +12,43 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-# ID de tu trabajo de fine-tuning
+# ID of your fine-tuning job
 job_id = "ftjob-Vh3Hb25bvpYmMXSbNlv3ZaJY"
 
 def main():
     try:
-        # Recuperar información del job
+        # Retrieve job information
         job = client.fine_tuning.jobs.retrieve(job_id)
     except Exception as e:
-        print(f"❌ Error al obtener la información del job:\n{e}")
+        print(f"❌ Error getting job information:\n{e}")
         return
 
-    print("✅ Información del trabajo:")
+    print("✅ Job Information:")
     print(f"ID: {job.id}")
-    print(f"Estado: {job.status}")
-    print(f"Modelo fine-tuned: {job.fine_tuned_model}")
+    print(f"Status: {job.status}")
+    print(f"Fine-tuned model: {job.fine_tuned_model}")
 
     if job.status != "succeeded":
-        print("\n⏳ El fine-tuning aún no ha finalizado o ha fallado.")
+        print("\n⏳ Fine-tuning hasn't finished or has failed.")
         return
 
-    # Hacer una prueba con el modelo fine-tuned
-    print("\n🤖 Probando el modelo fine-tuned...\n")
+    # Test the fine-tuned model
+    print("\n🤖 Testing the fine-tuned model...\n")
 
     try:
         response = client.chat.completions.create(
             model=job.fine_tuned_model,
             messages=[
-                {"role": "user", "content": "Tengo alergia al gluten y quiero una dieta vegana para mantener mi peso. Mido 1.70 y peso 65 kg."}
+                {"role": "user", "content": "I have gluten allergy and want a vegan diet to maintain my weight. I'm 1.70m tall and weigh 65kg."}
             ],
             temperature=0.7
         )
 
-        print("✅ Respuesta del modelo:")
+        print("✅ Model response:")
         print(response.choices[0].message.content.strip())
 
     except Exception as e:
-        print(f"❌ Error al hacer la solicitud al modelo fine-tuned:\n{e}")
+        print(f"❌ Error making request to fine-tuned model:\n{e}")
 
 if __name__ == "__main__":
     main()

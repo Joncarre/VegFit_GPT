@@ -1,38 +1,38 @@
 # 🍃 GPT NutriFit Veggie 🍃
-**Tu asistente de IA para dietas de gimnasio centradas en el ámbito vegano y vegetariano.**
+**Your AI assistant for gym diets focused on vegan and vegetarian nutrition.**
 
 ---
 
-## ✨ ¿Qué es GPT NutriFit Veggie?
-GPT NutriFit Veggie es un modelo de lenguaje desarrollado para ofrecer planes de alimentación, recetas y consejos nutricionales dirigidos a personas que siguen una dieta vegana o vegetariana y desean optimizar su rendimiento deportivo.
+## ✨ What is GPT NutriFit Veggie?
+GPT NutriFit Veggie is a language model developed to provide meal plans, recipes, and nutritional advice for people following a vegan or vegetarian diet who want to optimize their athletic performance.
 
-> **Nota Informativa:**  
-> Esta herramienta se basa en datos recopilados de fuentes fiables (artículos científicos, nutricionistas especializados y recetarios verificados). Sin embargo, no pretende sustituir el consejo de un profesional de la salud.
-
----
-
-## 🔑 Características Principales
-1. **Planes Personalizados**  
-   Ajuste de calorías y macronutrientes según tus metas (pérdida de peso, ganancia muscular, definición, etc.).
-2. **Enfoque 100% Veggie**  
-   Recetas y menús diseñados para dietas **veganas** y **vegetarianas**, con recomendaciones sobre proteínas vegetales, suplementos y micronutrientes clave.
-3. **Flexibilidad y Variedad**  
-   Incluye sugerencias de alimentos alternativos para alérgicos e intolerantes (sin gluten, sin frutos secos, etc.).
-4. **Optimización Deportiva**  
-   Orientado a los que practican distintas disciplinas: fitness, crossfit, running, deportes de resistencia, etc.
+> **Information Note:**  
+> This tool is based on data collected from reliable sources (scientific articles, specialized nutritionists, and verified recipe books). However, it is not intended to replace the advice of a healthcare professional.
 
 ---
 
-## 🏁 Beneficios Clave
-- **Salud y Bienestar**: Promueve menús equilibrados, ricos en fibra, vitaminas y minerales esenciales.  
-- **Rendimiento Deportivo**: Ajusta la ingesta proteica y calórica para tus sesiones de entrenamiento.  
-- **Sostenibilidad**: Apoya elecciones de alimentación amigables con el medio ambiente.
+## 🔑 Key Features
+1. **Personalized Plans**  
+   Calorie and macronutrient adjustments according to your goals (weight loss, muscle gain, definition, etc.).
+2. **100% Veggie Focus**  
+   Recipes and menus designed for **vegan** and **vegetarian** diets, with recommendations on plant proteins, supplements, and key micronutrients.
+3. **Flexibility and Variety**  
+   Includes alternative food suggestions for allergies and intolerances (gluten-free, nut-free, etc.).
+4. **Sports Optimization**  
+   Oriented towards those who practice different disciplines: fitness, crossfit, running, endurance sports, etc.
 
 ---
 
-## 🚀 Cómo Empezar
-1. **Define tu Objetivo**: Volumen, definición, mantenimiento o mejora del rendimiento.  
-2. **Indica Tus Restricciones**: Alergias, intolerancias o preferencias alimentarias adicionales.  
-3. **Recibe Tu Plan**: El GPT generará una propuesta de dieta diaria o semanal, con recetas e indicaciones nutricionales.
+## 🏁 Key Benefits
+- **Health and Wellness**: Promotes balanced menus, rich in fiber, vitamins, and essential minerals.  
+- **Athletic Performance**: Adjusts protein and caloric intake for your training sessions.  
+- **Sustainability**: Supports environmentally friendly food choices.
+
+---
+
+## 🚀 How to Start
+1. **Define Your Goal**: Bulking, cutting, maintenance, or performance improvement.  
+2. **Indicate Your Restrictions**: Allergies, intolerances, or additional food preferences.  
+3. **Receive Your Plan**: The GPT will generate a daily or weekly diet proposal, with recipes and nutritional guidelines.
 
 ---
